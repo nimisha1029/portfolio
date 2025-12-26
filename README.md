@@ -7,13 +7,13 @@ This is my very first web development project where I built my own portfolio web
 2. CSS
 3. Javascript
 
-#Features:-
+# Features:-
 1. The main aim was to create a simple and clean design.
 2. Responsive design for mobile and laptops.
 3. Smooth navigation.
 
-#Live Demo
+# Live Demo
 It will be available once i deploy the website.
 
-#Author
+# Author
 Nimisha Singhal
